@@ -378,6 +378,7 @@ body {
     gap: 15px;
     margin-bottom: 15px;
     text-align: left;
+    color: #000;
 }
 
 .card-features .feature i {
